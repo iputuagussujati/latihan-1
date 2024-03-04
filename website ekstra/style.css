@@ -1,0 +1,26 @@
+.luar {
+    height: 6cm;
+    width: 8cm;
+    border: 2px solid red;
+    margin: auto;
+    overflow: hidden;
+}
+.atas {
+    height: 30%;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+}
+.bawah{
+    height: 70%;
+    width: 100%;
+    background-color: grey;
+    position: relative;
+}
+.logo {
+      position: absolute;
+      height: 12px;
+      width: 12px;
+      top: 12px;
+      left: 13px;
+}
